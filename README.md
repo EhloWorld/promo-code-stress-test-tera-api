@@ -41,4 +41,4 @@ This command will use promo code until you stop the script
 
 CTRL + C : stop the script
 
-If the server crash or if ode is used multiple time you need to fix something or add rate limit on a reverse proxy like nginx
+If the server crash or if code is used multiple time you need to fix something or add rate limit on a reverse proxy like nginx
